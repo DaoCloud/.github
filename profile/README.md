@@ -1,11 +1,11 @@
-### CNCF Projects from DaoCloud
+### [CNCF Projects](https://www.cncf.io/sandbox-projects/) from DaoCloud
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): The Encyclopedia of Kubernetes clusters.
 - [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [hwameistor](https://github.com/hwameistor/hwameistor): Hwameistor is an HA local storage system for cloud-native stateful workloads.
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
 - [piraeus](https://github.com/piraeusdatastore/piraeus): High Available Datastore for Kubernetes
 
-### CNCF Projects with DaoCloud maintaners
+### CNCF Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 - [Istio](https://github.com/istio/istio): Connect, secure, control, and observe services.
@@ -16,7 +16,7 @@
 - [kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-native Job Queueing
 - [kubeadm](https://github.com/kubernetes/kubeadm/): Aggregator for issues filed against kubeadm
 
-### CNCF LandScape Projects from DaoCloud
+### [CNCF LandScape](https://landscape.cncf.io/) Projects from DaoCloud
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 - [kubean](https://github.com/kubean-io/kubean): :seedling: Kubernetes lifecycle management operator based on kubespray.
 
