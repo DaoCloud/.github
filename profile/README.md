@@ -11,10 +11,11 @@
 - [Istio](https://github.com/istio/istio): Connect, secure, control, and observe services.
 - [Karmada](https://github.com/karmada-io/karmada): Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [KubeEdge](https://github.com/kubeedge/kubeedge): Kubernetes Native Edge Computing Framework
-- [kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
-- [KWOK](https://github.com/kubernetes-sigs/kwok): Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-- [kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-native Job Queueing
-- [kubeadm](https://github.com/kubernetes/kubeadm/): Aggregator for issues filed against kubeadm
+- [k-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
+- [k-sigs/KWOK](https://github.com/kubernetes-sigs/kwok): Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+- [k-sigs/kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-native Job Queueing
+- [k/kubeadm](https://github.com/kubernetes/kubeadm/): Aggregator for issues filed against kubeadm
+- [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
 ### [CNCF LandScape](https://landscape.cncf.io/) Projects from DaoCloud
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
