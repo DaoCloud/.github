@@ -5,7 +5,7 @@
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
 - [piraeus](https://github.com/piraeusdatastore/piraeus): High Available Datastore for Kubernetes
 
-### CNCF Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
+### CNCF Projects with DaoCloud [maintainers](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 - [Istio](https://github.com/istio/istio): Connect, secure, control, and observe services.
