@@ -7,14 +7,16 @@
 
 ### CNCF Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 
-- [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
-- [Istio](https://github.com/istio/istio): Connect, secure, control, and observe services.
-- [Karmada](https://github.com/karmada-io/karmada): Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [KubeEdge](https://github.com/kubeedge/kubeedge): Kubernetes Native Edge Computing Framework
+- [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: Production-Grade Container Scheduling and Management
+- [Istio](https://github.com/istio/istio) [**Graduated**]: Connect, secure, control, and observe services.
+- [containerd](https://github.com/containerd/containerd) [**Graduated**]: An open and reliable container runtime
+- [Karmada](https://github.com/karmada-io/karmada) [**Incubating**]: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+- [KubeEdge](https://github.com/kubeedge/kubeedge) [**Incubating**]: Kubernetes Native Edge Computing Framework
 - [k-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 - [k-sigs/KWOK](https://github.com/kubernetes-sigs/kwok): Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [k-sigs/kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-native Job Queueing
 - [k/kubeadm](https://github.com/kubernetes/kubeadm/): Aggregator for issues filed against kubeadm
+- [k-sigs/lws](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): All the things to make the scheduler extendable with wasm.
 - [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
 ### [CNCF LandScape](https://landscape.cncf.io/) Projects from DaoCloud
@@ -30,4 +32,5 @@
 - [fedstate](https://github.com/fedstate/fedstate): Federated middleware based on Karmada
 - [kasmcloud](https://github.com/wasmCloud/kasmcloud): Running and managing Wasm(actors) and capability providers in Kubernetes
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): Manage kubernetes node-level kernel tuning ( using sysctl ).
+- [datatunerx](https://github.com/DataTunerX/datatunerx): Large language model fine-tuning capabilities based on cloud native and distributed computing.
 - To be continued...
