@@ -1,4 +1,4 @@
-### [CNCF Projects](https://www.cncf.io/sandbox-projects/) from DaoCloud
+### [CNCF Projects](https://www.cncf.io/sandbox-projects/) founded by DaoCloud
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): The Encyclopedia of Kubernetes clusters.
 - [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [hwameistor](https://github.com/hwameistor/hwameistor): Hwameistor is an HA local storage system for cloud-native stateful workloads.
@@ -19,11 +19,12 @@
 - [k-sigs/lws](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): All the things to make the scheduler extendable with wasm.
 - [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
-### [CNCF LandScape](https://landscape.cncf.io/) Projects from DaoCloud
+### [CNCF LandScape](https://landscape.cncf.io/) Projects founded by DaoCloud
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 - [kubean](https://github.com/kubean-io/kubean): :seedling: Kubernetes lifecycle management operator based on kubespray.
 
-### Tools & Other Projects by DaoCloud or DaoClouder
+### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS vGPU scheduler for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory.
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts): Kubernetes LTS(long term support)
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): data plane testing utility of cloud native
