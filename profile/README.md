@@ -16,7 +16,7 @@
 - [k-sigs/KWOK](https://github.com/kubernetes-sigs/kwok): Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [k-sigs/kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-native Job Queueing
 - [k/kubeadm](https://github.com/kubernetes/kubeadm/): Aggregator for issues filed against kubeadm
-- [k-sigs/lws](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): All the things to make the scheduler extendable with wasm.
+- [k-sigs/kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): All the things to make the scheduler extendable with wasm.
 - [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
 ### [CNCF LandScape](https://landscape.cncf.io/) Projects founded by DaoCloud
