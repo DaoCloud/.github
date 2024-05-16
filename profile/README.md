@@ -8,7 +8,7 @@
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
 - [piraeus](https://github.com/piraeusdatastore/piraeus): High Available Datastore for Kubernetes
 
-### CNCF Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
+### CNCF/Apache Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: Production-Grade Container Scheduling and Management
 - [Istio](https://github.com/istio/istio) [**Graduated**]: Connect, secure, control, and observe services.
@@ -22,6 +22,8 @@
 - [k-sigs/kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): All the things to make the scheduler extendable with wasm.
 - [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): Running and managing Wasm(actors) and capability providers in Kubernetes
+- [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
+- [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
 ### [CNCF LandScape](https://landscape.cncf.io/) Projects founded by DaoCloud or with DaoCloud maintainers
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
