@@ -8,7 +8,7 @@
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Kubernetes 的底层和 RDMA 网络解决方案，适用于裸金属、虚拟机和任何公共云。
 - [piraeus](https://github.com/piraeusdatastore/piraeus): 用于 Kubernetes 的高可用数据存储。
 
-### 由 DaoCloud [维护](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)的 CNCF 项目
+### 由 DaoCloud/Apache [维护](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)的 CNCF 项目
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: 生产级容器调度和管理，云原生编排事实标准。
 - [Istio](https://github.com/istio/istio) [**Graduated**]: 连接、安全、控制和可观测的流量管理服务。
@@ -22,6 +22,8 @@
 - [k-sigs/kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension): 通过 wasm 扩展 Kubernetes 调度器。
 - [k-sigs/lws](https://github.com/kubernetes-sigs/lws): LeaderWorkerSet: 将一组 Pod 部署为多组 Workload 的 API。
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): 在 Kubernetes 中运行 WasmCloud。
+- [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
+- [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
 ### 由 DaoCloud 创建或维护的 [CNCF LandScape](https://landscape.cncf.io/) 全景图项目
 - [cloudtty](https://github.com/cloudtty/cloudtty): 友好的 Kubernetes CloudShell（Web 终端）！
