@@ -1,6 +1,7 @@
 **English** | [中文](https://github.com/DaoCloud/.github/blob/main/profile/README_zh.md)
 
-### [CNCF Projects](https://www.cncf.io/sandbox-projects/) founded by DaoCloud
+### [CNCF Projects](https://www.cncf.io/sandbox-projects/) (co-)founded by DaoCloud
+- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS vGPU scheduler for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory.
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): The Encyclopedia of Kubernetes clusters.
 - [hwameistor](https://github.com/hwameistor/hwameistor): Hwameistor is an HA local storage system for cloud-native stateful workloads.
 - [kubean](https://github.com/kubean-io/kubean): :seedling: Kubernetes lifecycle management operator based on kubespray.
@@ -27,7 +28,6 @@
 
 ### [CNCF LandScape](https://landscape.cncf.io/) Projects founded by DaoCloud or with DaoCloud maintainers
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
-- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS vGPU scheduler for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory.
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
