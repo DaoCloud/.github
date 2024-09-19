@@ -1,6 +1,7 @@
 [English](https://github.com/DaoCloud/.github/blob/main/profile/README.md) | **中文**
 
-### 由 DaoCloud 创建的项目 [CNCF 项目](https://www.cncf.io/sandbox-projects/) 
+### 由 DaoCloud （联合）发起的项目 [CNCF 项目](https://www.cncf.io/sandbox-projects/) 
+- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS 的 Kubernetes 虚拟 GPU 调度器源自于 OpenAIOS 项目，用于虚拟化 GPU 设备内存。
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): 混合检索 Kubernetes 多集群的资源。
 - [hwameistor](https://github.com/hwameistor/hwameistor): 一个面向云原生有状态工作负载的高可用本地存储系统。
 - [kubean](https://github.com/kubean-io/kubean): :seedling: 基于 kubespray 的 Kubernetes 生命周期管理工具。
@@ -27,7 +28,6 @@
 
 ### 由 DaoCloud 创建或维护的 [CNCF LandScape](https://landscape.cncf.io/) 全景图项目
 - [cloudtty](https://github.com/cloudtty/cloudtty): 友好的 Kubernetes CloudShell（Web 终端）！
-- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS 的 Kubernetes 虚拟 GPU 调度器源自于 OpenAIOS 项目，用于虚拟化 GPU 设备内存。
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
