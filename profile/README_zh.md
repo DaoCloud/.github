@@ -14,8 +14,8 @@
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: 生产级容器调度和管理，云原生编排事实标准。
 - [Istio](https://github.com/istio/istio) [**Graduated**]: 连接、安全、控制和可观测的流量管理服务。
 - [containerd](https://github.com/containerd/containerd) [**Graduated**]: 一个开放且可靠的容器运行时。
+- [KubeEdge](https://github.com/kubeedge/kubeedge) [**Graduated**]: Kubernetes 原生边缘计算框架。
 - [Karmada](https://github.com/karmada-io/karmada) [**Incubating**]: 开放的、多云、多集群 Kubernetes 编排。
-- [KubeEdge](https://github.com/kubeedge/kubeedge) [**Incubating**]: Kubernetes 原生边缘计算框架。
 - [k-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): 部署一个生产就绪的 Kubernetes 集群。
 - [k-sigs/KWOK](https://github.com/kubernetes-sigs/kwok): Kubernetes Without Kubelet - 模拟成千上万个节点和多集群。
 - [k-sigs/kueue](https://github.com/kubernetes-sigs/kueue): Kubernetes-原生队列管理。
