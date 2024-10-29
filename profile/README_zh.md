@@ -9,7 +9,7 @@
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Kubernetes 的底层和 RDMA 网络解决方案，适用于裸金属、虚拟机和任何公共云。
 - [piraeus](https://github.com/piraeusdatastore/piraeus): 用于 Kubernetes 的高可用数据存储。
 
-### 由 DaoCloud/Apache [维护](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)的 CNCF 项目
+### 由 DaoCloud [维护](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)的 CNCF/Apache 项目
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: 生产级容器调度和管理，云原生编排事实标准。
 - [Istio](https://github.com/istio/istio) [**Graduated**]: 连接、安全、控制和可观测的流量管理服务。
