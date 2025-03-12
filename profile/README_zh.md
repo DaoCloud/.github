@@ -1,11 +1,11 @@
 [English](https://github.com/DaoCloud/.github/blob/main/profile/README.md) | **中文**
 
 ### 由 DaoCloud （联合）发起的项目 [CNCF 项目](https://www.cncf.io/sandbox-projects/) 
-- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS 的 Kubernetes 虚拟 GPU 调度器源自于 OpenAIOS 项目，用于虚拟化 GPU 设备内存。
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Kubernetes 的底层和 RDMA 网络解决方案，适用于裸金属、虚拟机和任何公共云。
 - [hwameistor](https://github.com/hwameistor/hwameistor): 一个面向云原生有状态工作负载的高可用本地存储系统。
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): 混合检索 Kubernetes 多集群的资源。
 - [kubean](https://github.com/kubean-io/kubean): :seedling: 基于 kubespray 的 Kubernetes 生命周期管理工具。
+- [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS 的 Kubernetes 虚拟 GPU 调度器源自于 OpenAIOS 项目，用于虚拟化 GPU 设备内存。
 - [merbridge](https://github.com/merbridge/merbridge): 使用 eBPF 加速服务网格。
 - [piraeus](https://github.com/piraeusdatastore/piraeus): 用于 Kubernetes 的高可用数据存储。
 
@@ -26,7 +26,13 @@
 - [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
+### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
+- [llmaz](https://github.com/InftyAI/llmaz): Kubernetes 原生的 LLM 轻量的推理平台.
+- [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
+
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
+- [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
 - [cloudtty](https://github.com/cloudtty/cloudtty): 友好的 Kubernetes CloudShell（Web 终端）！
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts): Kubernetes 长期支持（LTS）。
