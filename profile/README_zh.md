@@ -35,6 +35,7 @@
 - [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
 - [cloudtty](https://github.com/cloudtty/cloudtty): 友好的 Kubernetes CloudShell（Web 终端）！
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+- [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), 镜像站的后端实现
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts): Kubernetes 长期支持（LTS）。
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): 云原生数据平面测试实用工具。
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Kubernetes 的网络出口网关。
