@@ -6,7 +6,6 @@
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia): The Encyclopedia of Kubernetes clusters.
 - [kubean](https://github.com/kubean-io/kubean): :seedling: Kubernetes lifecycle management operator based on kubespray.
 - [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS vGPU scheduler for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory.
-- [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [piraeus](https://github.com/piraeusdatastore/piraeus): High Available Datastore for Kubernetes
 
 ### CNCF/Apache Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
@@ -31,9 +30,11 @@
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
 - [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+- [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), the backend of public image mirror
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts): Kubernetes LTS(long term support)
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Network egress policy for Kubernetes
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): data plane testing utility of cloud native
