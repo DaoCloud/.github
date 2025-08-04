@@ -1,5 +1,7 @@
 **English** | [中文](https://github.com/DaoCloud/.github/blob/main/profile/README_zh.md)
 
+The [**d.run**](https://d.run/) Open Source Community is the collective name for the following open source projects. All of these projects are actively applied in the d.run platform to support its architecture, scalability, and innovation.
+
 ### [CNCF Projects](https://www.cncf.io/sandbox-projects/) (co-)founded by DaoCloud
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
 - [hwameistor](https://github.com/hwameistor/hwameistor): Hwameistor is an HA local storage system for cloud-native stateful workloads.
