@@ -1,5 +1,7 @@
 [English](https://github.com/DaoCloud/.github/blob/main/profile/README.md) | **中文**
 
+[**d.run**](https://d.run/) 开源社区是以下开源项目的合集统称，这些项目均已在 d.run 平台中实际投入使用，支撑其体系结构、可扩展性与持续创新。
+
 ### 由 DaoCloud （联合）发起的项目 [CNCF 项目](https://www.cncf.io/sandbox-projects/) 
 - [spiderpool](https://github.com/spidernet-io/spiderpool): Kubernetes 的底层和 RDMA 网络解决方案，适用于裸金属、虚拟机和任何公共云。
 - [hwameistor](https://github.com/hwameistor/hwameistor): 一个面向云原生有状态工作负载的高可用本地存储系统。
