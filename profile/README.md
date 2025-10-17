@@ -10,8 +10,9 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [HAMi](https://github.com/Project-HAMi/HAMi): OpenAIOS vGPU scheduler for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory.
 - [piraeus](https://github.com/piraeusdatastore/piraeus): High Available Datastore for Kubernetes
 
-### CNCF/Apache Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
+### CNCF/Apache/PyTorchFoundation Projects with DaoCloud [maintaners](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 
+- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: Production-Grade Container Scheduling and Management
 - [Istio](https://github.com/istio/istio) [**Graduated**]: Connect, secure, control, and observe services.
 - [containerd](https://github.com/containerd/containerd) [**Graduated**]: An open and reliable container runtime
@@ -26,9 +27,9 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): Running and managing Wasm(actors) and capability providers in Kubernetes
 - [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
+- [llm-d](https://github.com/llm-d/llm-d): A comprehensive LLM development and deployment framework
 - [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
@@ -44,6 +45,5 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [miragedebug](https://github.com/miragedebug/miragedebug): MirageDebug: Local remote debugging for Kubernetes apps, enabling fully authentic environment debugging.
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): Manage kubernetes node-level kernel tuning ( using sysctl ).
 - [datatunerx](https://github.com/DataTunerX/datatunerx): Large language model fine-tuning capabilities based on cloud native and distributed computing.
-- [llm-d](https://github.com/llm-d/llm-d): A comprehensive LLM development and deployment framework
 - more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).	
 - To be continued...
