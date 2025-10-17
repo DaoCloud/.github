@@ -26,6 +26,7 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): Running and managing Wasm(actors) and capability providers in Kubernetes
 - [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
 - [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
@@ -43,5 +44,6 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [miragedebug](https://github.com/miragedebug/miragedebug): MirageDebug: Local remote debugging for Kubernetes apps, enabling fully authentic environment debugging.
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): Manage kubernetes node-level kernel tuning ( using sysctl ).
 - [datatunerx](https://github.com/DataTunerX/datatunerx): Large language model fine-tuning capabilities based on cloud native and distributed computing.
+- [llm-d](https://github.com/llm-d/llm-d): A comprehensive LLM development and deployment framework
 - more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).	
 - To be continued...

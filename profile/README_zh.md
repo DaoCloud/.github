@@ -27,6 +27,7 @@
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): 在 Kubernetes 中运行 WasmCloud。
 - [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [vllm](https://github.com/vllm-project/vllm): 高吞吐量、内存高效的 LLM 推理和服务引擎
 
 ### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
 - [llmaz](https://github.com/InftyAI/llmaz): Kubernetes 原生的 LLM 轻量的推理平台.
@@ -45,5 +46,6 @@
 - [fedstate](https://github.com/fedstate/fedstate): 基于 Karmada 的联合中间件。
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): 管理 Kubernetes 节点级内核调整（使用 sysctl）。
 - [datatunerx](https://github.com/DataTunerX/datatunerx): 基于云原生和分布式计算的大型语言模型微调能力。
+- [llm-d](https://github.com/llm-d/llm-d): 综合性的 LLM 开发和部署框架
 - 更多 AI 孵化中项目: [llmaz](https://github.com/InftyAI/llmaz), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).
 - 更多项目，敬请期待。
