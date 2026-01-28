@@ -37,7 +37,6 @@
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
 - [matrixhub](https://github.com/matrixhub-ai/matrixhub): 开源的 AI 模型仓库，用于企业推理，支持 vLLM 和 SGLang 工作负载。
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
-- [cloudtty](https://github.com/cloudtty/cloudtty): 友好的 Kubernetes CloudShell（Web 终端）！
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Kubernetes 的网络出口网关。
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama!
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): 云原生数据平面测试实用工具。
@@ -47,7 +46,6 @@
 - kubernetes-lts
 - datatunerx
 - miragedebug
-- fedstate
 - kube-node-tuning
-- 更多 AI 孵化中项目: [llmaz](https://github.com/InftyAI/llmaz), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).
+- 更多 AI 孵化中项目: [fedstate](https://github.com/fedstate/fedstate), [llmaz](https://github.com/InftyAI/llmaz), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).
 - 更多项目，敬请期待。

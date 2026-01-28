@@ -35,7 +35,7 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
 - [matrixhub](https://github.com/matrixhub-ai/matrixhub): An open-source AI model registry for enterprise inference, supporting vLLM and SGLang workloads.
-- [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+- [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): Speed up access to container images hosted abroad (e.g., gcr.io) for users in China.
 - [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Network egress policy for Kubernetes
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama!
@@ -47,5 +47,5 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - datatunerx
 - miragedebug
 - kube-node-tuning
-- more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).	
+- more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).
 - To be continued...
