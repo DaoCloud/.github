@@ -35,6 +35,7 @@
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [matrixhub](https://github.com/matrixhub-ai/matrixhub): 开源的 AI 模型仓库，用于企业推理，支持 vLLM 和 SGLang 工作负载。
 - [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
 - [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
@@ -48,5 +49,5 @@
 - [fedstate](https://github.com/fedstate/fedstate): 基于 Karmada 的联合中间件。
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): 管理 Kubernetes 节点级内核调整（使用 sysctl）。
 - [datatunerx](https://github.com/DataTunerX/datatunerx): 基于云原生和分布式计算的大型语言模型微调能力。
-- 更多 AI 孵化中项目: [llmaz](https://github.com/InftyAI/llmaz), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite), [matrixhub](https://github.com/matrixhub-ai/matrixhub).
+- 更多 AI 孵化中项目: [llmaz](https://github.com/InftyAI/llmaz), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).
 - 更多项目，敬请期待。
