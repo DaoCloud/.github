@@ -35,17 +35,17 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
 - [matrixhub](https://github.com/matrixhub-ai/matrixhub): An open-source AI model registry for enterprise inference, supporting vLLM and SGLang workloads.
-- [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
-- [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
-- [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
-- [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
-- [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), the backend of public image mirror
-- [kubernetes-lts](https://github.com/klts-io/kubernetes-lts): Kubernetes LTS(long term support)
+- [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Network egress policy for Kubernetes
+- [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama!
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): data plane testing utility of cloud native
-- [miragedebug](https://github.com/miragedebug/miragedebug): MirageDebug: Local remote debugging for Kubernetes apps, enabling fully authentic environment debugging.
-- [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): Manage kubernetes node-level kernel tuning ( using sysctl ).
-- [datatunerx](https://github.com/DataTunerX/datatunerx): Large language model fine-tuning capabilities based on cloud native and distributed computing.
+- [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), the backend of public image mirror
+- [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
+- [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
+- kubernetes-lts
+- datatunerx
+- miragedebug
+- kube-node-tuning
 - more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).	
 - To be continued...
