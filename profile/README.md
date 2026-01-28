@@ -46,5 +46,5 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [miragedebug](https://github.com/miragedebug/miragedebug): MirageDebug: Local remote debugging for Kubernetes apps, enabling fully authentic environment debugging.
 - [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning): Manage kubernetes node-level kernel tuning ( using sysctl ).
 - [datatunerx](https://github.com/DataTunerX/datatunerx): Large language model fine-tuning capabilities based on cloud native and distributed computing.
-- more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite).	
+- more AI incubating projects: [fedstate](https://github.com/fedstate/fedstate), [kcover](https://github.com/BaizeAI/kcover), [llmg](https://github.com/lingticio/llmg), [llmlite](https://github.com/InftyAI/llmlite), [matrixhub](https://github.com/matrixhub-ai/matrixhub).	
 - To be continued...
