@@ -35,6 +35,7 @@
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [matrixhub](https://github.com/matrixhub-ai/matrixhub): 开源的 AI 模型仓库，用于企业推理，支持 vLLM 和 SGLang 工作负载。
 - [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
 - [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises

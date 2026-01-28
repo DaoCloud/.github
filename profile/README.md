@@ -34,6 +34,7 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
+- [matrixhub](https://github.com/matrixhub-ai/matrixhub): An open-source AI model registry for enterprise inference, supporting vLLM and SGLang workloads.
 - [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
 - [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [ollama-operator](https://github.com/nekomeowww/ollama-operator): Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 
