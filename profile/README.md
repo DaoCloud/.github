@@ -14,6 +14,7 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 
 - [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Kubernetes](https://github.com/kubernetes/kubernetes) [**Graduated**]: Production-Grade Container Scheduling and Management
+- [llm-d](https://github.com/llm-d/llm-d): A comprehensive LLM development and deployment framework
 - [Istio](https://github.com/istio/istio) [**Graduated**]: Connect, secure, control, and observe services.
 - [containerd](https://github.com/containerd/containerd) [**Graduated**]: An open and reliable container runtime
 - [KubeEdge](https://github.com/kubeedge/kubeedge) [**Graduated**]: Kubernetes Native Edge Computing Framework
@@ -29,7 +30,6 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
 ### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
-- [llm-d](https://github.com/llm-d/llm-d): A comprehensive LLM development and deployment framework
 - [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
