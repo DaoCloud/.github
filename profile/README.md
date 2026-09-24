@@ -30,11 +30,11 @@ The [**d.run**](https://d.run/) Open Source Community is the collective name for
 - [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
 ### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
+- [matrixhub](https://github.com/matrixhub-ai/matrixhub): An open-source AI model registry for enterprise inference, supporting vLLM and SGLang workloads.
 - [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
 - [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
 
 ### Tools & Other Projects founded by DaoCloud or DaoClouder
-- [matrixhub](https://github.com/matrixhub-ai/matrixhub): An open-source AI model registry for enterprise inference, supporting vLLM and SGLang workloads.
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): Speed up access to container images hosted abroad (e.g., gcr.io) for users in China.
 - [merbridge](https://github.com/merbridge/merbridge): Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Network egress policy for Kubernetes
