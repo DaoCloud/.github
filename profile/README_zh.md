@@ -28,20 +28,20 @@
 - [vllm-semantic-router](https://github.com/vllm-project/semantic-router): 面向异构 LLM 推理的可编程 Mixture-of-Models 路由器。
 - [k/kubeadm](https://github.com/kubernetes/kubeadm/): 节点安装管理。
 - [wasmCloud/kasmcloud](https://github.com/wasmCloud/kasmcloud): 在 Kubernetes 中运行 WasmCloud。
-- [apache/skywalking](https://github.com/apache/skywalking): APM, Application Performance Monitoring System
-- [apollo](https://github.com/apolloconfig/apollo): Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [apache/skywalking](https://github.com/apache/skywalking): APM（应用性能监控）系统
+- [apollo](https://github.com/apolloconfig/apollo): Apollo 是一个可靠的配置管理系统，适用于微服务配置管理场景。
 
-### [CNCF Landscape](https://landscape.cncf.io/) Projects founded by DaoCloud or DaoClouder
-- [cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) !
+### [CNCF Landscape](https://landscape.cncf.io/) 中由 DaoCloud 或 DaoClouder 发起的项目
+- [cloudtty](https://github.com/cloudtty/cloudtty): 一个友好的 Kubernetes CloudShell（Web Terminal）！
 
-### Tools & Other Projects founded by DaoCloud or DaoClouder
+### 由 DaoCloud 或 DaoClouder 发起的工具及其他项目
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [merbridge(archived)](https://github.com/merbridge/merbridge): 使用 eBPF 加速服务网格，像穿越爱因斯坦-罗森桥一样。
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Kubernetes 的网络出口网关。
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): 云原生数据平面测试实用工具。
 - [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), 镜像站的后端实现
-- [knoway](https://github.com/knoway-dev/knoway): An Envoy inspired, ultimate LLM-first gateway for LLM serving and downstream application developers and enterprises
-- [lustre csi](https://github.com/luskits/luscsi): Lustre CSI Driver
+- [knoway](https://github.com/knoway-dev/knoway): 一个受 Envoy 启发、面向 LLM 服务及下游应用开发者和企业的 LLM-first 网关
+- [lustre csi](https://github.com/luskits/luscsi): Lustre CSI 驱动
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts/)
-- 更多 AI 孵化中项目: [kcover](https://github.com/BaizeAI/kcover), [xet](https://github.com/wzshiming/xet), [unifabric](https://github.com/unifabric-io)。
+- 更多 AI 孵化中项目: [kcover](https://github.com/BaizeAI/kcover), [xet](https://github.com/wzshiming/xet), [unifabric](https://github.com/unifabric-io/unifabric)。
 - 更多项目，敬请期待。
