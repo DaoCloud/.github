@@ -36,7 +36,7 @@
 
 ### 由 DaoCloud 或 DaoClouder 发起的工具及其他项目
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
-- [merbridge](https://github.com/merbridge/merbridge) [**Archived**]: 使用 eBPF 加速服务网格，像穿越爱因斯坦-罗森桥一样。
+- [merbridge](https://github.com/merbridge/merbridge) [**Archived**]: 使用 eBPF 像穿越爱因斯坦-罗森桥一样加速你的服务网格。
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Kubernetes 的网络出口网关。
 - [kdoctor](https://github.com/kdoctor-io/kdoctor): 云原生数据平面测试实用工具。
 - [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), 镜像站的后端实现
