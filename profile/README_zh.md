@@ -42,6 +42,6 @@
 - [OpenCIDN](https://github.com/OpenCIDN/OpenCIDN): OpenCIDN (Open Container Image Deliver Network), 镜像站的后端实现
 - [knoway](https://github.com/knoway-dev/knoway): 一个受 Envoy 启发、面向 LLM 服务及下游应用开发者和企业的 LLM-first 网关
 - [lustre csi](https://github.com/luskits/luscsi): Lustre CSI 驱动
-- [kubernetes-lts](https://github.com/klts-io/kubernetes-lts/)
+- [kubernetes-lts](https://github.com/klts-io/kubernetes-lts/): Kubernetes 长期支持（LTS）项目
 - 更多 AI 孵化中项目: [kcover](https://github.com/BaizeAI/kcover), [xet](https://github.com/wzshiming/xet), [unifabric](https://github.com/unifabric-io/unifabric)。
 - 更多项目，敬请期待。
