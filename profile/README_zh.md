@@ -35,6 +35,7 @@
 - [cloudtty](https://github.com/cloudtty/cloudtty): 一个友好的 Kubernetes CloudShell（Web Terminal）！
 
 ### 由 DaoCloud 或 DaoClouder 发起的工具及其他项目
+- [ContextStore](https://github.com/DaoCloud/ContextStore)：面向大语言模型推理 KV 缓存的分层共享存储。
 - [public-image-mirror](https://github.com/DaoCloud/public-image-mirror): 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [merbridge](https://github.com/merbridge/merbridge) [**Archived**]: 使用 eBPF 加速服务网格，像穿越爱因斯坦-罗森桥一样。
 - [egressgateway](https://github.com/spidernet-io/egressgateway): Kubernetes 的网络出口网关。
